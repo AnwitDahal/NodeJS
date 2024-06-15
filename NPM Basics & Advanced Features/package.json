@@ -1,0 +1,18 @@
+{
+  "name": "npm_basics_and_advanced_features",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "echo": "echo \"\u001b[36mRunning tests...\u001b[39m\" && node script.js",
+    "start": "node ./script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anwit",
+  "license": "ISC",
+  "dependencies": {
+    "accessibility": "^3.0.9",
+    "chalk": "^5.3.0",
+    "one-liner-joke": "^1.2.2"
+  }
+}
